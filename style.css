@@ -266,3 +266,53 @@ button[type="submit"]:hover {
   text-transform: uppercase;
   font-size: 1rem;
 }
+
+#social {
+  position: fixed;
+  top: 25%;
+  left: 1px;
+}
+
+#social img {
+  width: 25px;
+  display: block;
+  /*     background-color: coral; */
+  padding: 10px;
+}
+
+#social #facebook img {
+  background-color: #3b5998;
+}
+#social #facebook img:hover {
+  background-color: #2d4373;
+}
+#social #linkedin img {
+  background-color: #0077b5;
+}
+#social #linkedin img:hover {
+  background-color: #00121c;
+}
+#social #twitter img {
+  background-color: #83c3f3;
+}
+#social #twitter img:hover {
+  background-color: #55acee;
+}
+#social #gmail img {
+  background-color: #dd4b39;
+}
+#social #gmail img:hover {
+  background-color: #c23321;
+}
+#social #whatsapp img {
+  background-color: #6ba92f;
+}
+#social #whatsapp img:hover {
+  background-color: #528124;
+}
+#social #mail img {
+  background-color: #ed4926;
+}
+#social #mail img:hover {
+  background-color: #cf3311;
+}
